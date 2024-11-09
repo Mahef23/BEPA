@@ -1,4 +1,5 @@
 nom = input("Name : ")
+# TESTEO 
 math= input("Note math: ")
 svt=input("Note Science: ")
 physic = input("Note Physique: ")
